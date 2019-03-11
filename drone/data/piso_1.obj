@@ -1,0 +1,12 @@
+# Blender v2.76 (sub 0) OBJ File: 'piso_1.blend'
+# www.blender.org
+mtllib piso_1.mtl
+o Plane
+v -7.945858 0.000000 7.945858
+v 7.945858 0.000000 7.945858
+v -7.945858 0.000000 -7.945858
+v 7.945858 0.000000 -7.945858
+vn 0.000000 1.000000 0.000000
+usemtl Material.001
+s off
+f 1//1 2//1 4//1 3//1
